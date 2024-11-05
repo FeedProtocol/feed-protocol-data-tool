@@ -14,6 +14,7 @@
       - [Solana](#solana)
       - [Eclipse](#eclipse)
       - [Sonic](#sonic)
+      - [Soon](#soon)
 
 ## Introduction
 
@@ -51,7 +52,7 @@ npm run start
 
 ### Program Addresses
 
-- New : FEED1qspts3SRuoEyG29NMNpsTKX8yG9NGMinNC4GeYB,
+- New : FEED1qspts3SRuoEyG29NMNpsTKX8yG9NGMinNC4GeYB
 - Old : 9uSwASSU59XvUS8d1UeU8EwrEzMGFdXZvQ4JSEAfcS7k
 
 ### RPC Addresses
@@ -69,3 +70,6 @@ npm run start
 #### Sonic
 - Devnet: https://devnet.sonic.game
 - Testnet: https://api.testnet.sonic.game
+
+#### Soon
+- Devnet: https://rpc.devnet.soo.network/rpc
