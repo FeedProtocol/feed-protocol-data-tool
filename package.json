@@ -1,0 +1,20 @@
+{
+  "name": "feed-protocol-data-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "build": "tsc main.ts",
+    "start": "ts-node main.ts"
+  },
+  "author": "Uğur Sirmen",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.95.4",
+    "csv-writer": "^1.6.0"
+  }
+}
