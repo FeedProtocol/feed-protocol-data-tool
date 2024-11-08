@@ -110,6 +110,7 @@ async function main() {
     await fetchData("FEED1qspts3SRuoEyG29NMNpsTKX8yG9NGMinNC4GeYB", "https://api.testnet.sonic.game", "sonic-testnet");
 
     await fetchData("FEED1qspts3SRuoEyG29NMNpsTKX8yG9NGMinNC4GeYB", "https://rpc.devnet.soo.network/rpc", "soon-devnet");
+    await fetchData("FEED1qspts3SRuoEyG29NMNpsTKX8yG9NGMinNC4GeYB", "https://rpc.testnet.soo.network/rpc", "soon-testnet");
 }
 
 main().catch(err => {

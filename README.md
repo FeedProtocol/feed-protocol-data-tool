@@ -73,3 +73,4 @@ npm run start
 
 #### Soon
 - Devnet: https://rpc.devnet.soo.network/rpc
+- Testnet: https://rpc.testnet.soo.network/rpc
